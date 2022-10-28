@@ -36,6 +36,7 @@
 		B22DC145290C594800717543 = {
 			isa = PBXGroup;
 			children = (
+				B22DC151290C594800717543 /* AP_ConstructApp.swift */,
 				B22DC150290C594800717543 /* AP-Construct */,
 				B22DC14F290C594800717543 /* Products */,
 			);
@@ -52,7 +53,6 @@
 		B22DC150290C594800717543 /* AP-Construct */ = {
 			isa = PBXGroup;
 			children = (
-				B22DC151290C594800717543 /* AP_ConstructApp.swift */,
 				B22DC153290C594800717543 /* ContentView.swift */,
 				B22DC155290C594C00717543 /* Assets.xcassets */,
 				B22DC15A290C594C00717543 /* AP_Construct.entitlements */,
